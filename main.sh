@@ -32,7 +32,7 @@ def: program() {
 		let a++
 	}
 	for x in {1..1}; do
-		declare symbol="*"; # karakter nya -> anda bisa mengganti nya sesuai ke inginan anda
+		declare symbol="$a"; # karakter nya -> anda bisa mengganti nya sesuai ke inginan anda
 		declare bytes+="$symbol"; # nah ini di gunakan untuk menyimpan variable tanpa menimpa nya jadi 1 loop bisa di jadikan output 1 dan seterus nya
 
 		Tulis.str "${bytes}\n"; # ini sebagai pencetak nya
