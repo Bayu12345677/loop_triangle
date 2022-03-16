@@ -11,7 +11,7 @@ registries:
     username: Bayu12345677
     password: ${{secrets.MY_GITHUB_PERSONAL_TOKEN}}
 updates:
-  - package-ecosystem: "githubsubmodule" # See documentation for possible values
+  - package-ecosystem: "gitsubmodule" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
