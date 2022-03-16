@@ -146,3 +146,6 @@ done
 # masukan jumlah besar nya segitiga
 program 15
 ```
+
+> tanks to MultiTeam and helixs-crew
+
