@@ -16,7 +16,7 @@ untuk cara penginstallan nya
 apt update
 apt full-upgrade
 apt install git
-git clone https://github.com/Bayu12345677/loop_triangle.git
+git submodule add https://github.com/Bayu12345677/loop_triangle.git
 cd loop_triangle
 ```
 
