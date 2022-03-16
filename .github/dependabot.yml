@@ -5,7 +5,7 @@
 
 version: 2
 registries:
-  github-octocat:
+  loop_triangle:
     type: git
     url: https://github.com
     username: Bayu12345677
